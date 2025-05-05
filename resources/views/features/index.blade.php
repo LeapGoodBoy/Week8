@@ -6,7 +6,7 @@
 </head>
 <body class="p-5">
 
-    <h3>Sothearith</h3>
+    <h3>Leapheng</h3>
 
     <a href="{{ route('features.create') }}" class="btn btn-primary mb-3">Add Feature</a>
 
